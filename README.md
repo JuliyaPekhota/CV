@@ -1,2 +1,1 @@
-# CV
-My CV
+https://JuliyaPekhota.github.io/rsschool-cv/
