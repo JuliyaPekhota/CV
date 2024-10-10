@@ -16,7 +16,7 @@
     --color-secondary: #ff1616;
     --color-light-gray: #f5f5f5;
     --color-dark-gray: #757572;
-    --color-gray: #bfd4df;
+    --color-gray: #9EBCCB;
 }
 
   body {
@@ -50,6 +50,9 @@ h3 {
     color: white;
     font-weight: 700;
     letter-spacing: 0.1rem;
+    &.subtitle {
+        padding: 15px 0 5px 0;
+    }
 }
 
 p { 
