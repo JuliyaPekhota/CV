@@ -1,2 +1,1 @@
-# CV
-My CV
+[My CV](https://juliyapekhota.github.io/CV/)
